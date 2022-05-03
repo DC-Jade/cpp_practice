@@ -71,4 +71,3 @@ set logging file log-file.txt   # set name for log file, default is gdb.txt
 # ref
 https://ftp.gnu.org/old-gnu/Manuals/gdb/html_chapter/gdb_19.html
 ```
-
